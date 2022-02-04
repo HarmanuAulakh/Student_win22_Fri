@@ -13,7 +13,7 @@ public class StudentList {
     
     public static void main(String [] args){
     
-        Student [] StudentList = new Student[3];
+        Student [] StudentList = new Student[4];
         
          StudentList[0] = new Student("s1","Harman");
          StudentList[1] = new Student("s1","Harman");
